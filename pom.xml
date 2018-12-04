@@ -6,6 +6,7 @@
 	<packaging>pom</packaging>
 	<name>houyi-parent-pom</name>
 	<description>the parent pom for all maven project</description>
+	<url>https://github.com/javagossip/houyi-parent</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
