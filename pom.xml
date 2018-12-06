@@ -29,7 +29,7 @@
 		<spring-boot.version>2.1.1.RELEASE</spring-boot.version>
 		<commons-lang3.version>3.8.1</commons-lang3.version>
 		<commons-codec.version>1.11</commons-codec.version>
-		<dorado.version>0.0.18</dorado.version>
+		<dorado.version>0.0.23</dorado.version>
 		<guava.version>27.0-jre</guava.version>
 		<spring-boot-mybatis.version>1.3.2</spring-boot-mybatis.version>
 		<mybatis-spring.version>1.3.2</mybatis-spring.version>
