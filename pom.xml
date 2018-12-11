@@ -36,6 +36,7 @@
 		<mysql-connector-java.version>5.1.35</mysql-connector-java.version>
 		<com.itfsw.mybatis-generator-plugin.version>1.2.12</com.itfsw.mybatis-generator-plugin.version>
 		<mybatis.version>3.4.6</mybatis.version>
+		<protobuf-java.version>2.6.1</protobuf-java.version>
 	</properties>
 
 	<licenses>
@@ -123,6 +124,11 @@
 				<groupId>com.alibaba</groupId>
 				<artifactId>fastjson</artifactId>
 				<version>${fastjson.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>com.google.protobuf</groupId>
+				<artifactId>protobuf-java</artifactId>
+				<version>${protobuf-java.version}</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
